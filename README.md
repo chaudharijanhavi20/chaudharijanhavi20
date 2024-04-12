@@ -1,4 +1,4 @@
-<img src='https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif' width='100%' height='450px'/>
+
 <h1 align="center">Hi 👋, I'm Janhavi Chaudhari</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="Coding" height="350" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"/>
