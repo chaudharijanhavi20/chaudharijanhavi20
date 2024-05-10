@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Janhavi Chaudhari</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
-<img align="right" alt="Coding" height="350" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaudharijanhavi20&label=Profile%20views&color=0e75b6&style=flat" alt="chaudharijanhavi20" /> </p>
 
@@ -9,11 +9,11 @@
 
 
 - I’m currently learning **React Redux**
-- 
+
 - Visit my Portfolio website at **https://chaudhari-janhavi.netlify.app/**
-- 
+  
 - Ask me about **Web Development**
-- 
+  
 - How to reach me **cm.a.20.janhavi.chaudhari@gmail.com**
 
 
