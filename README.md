@@ -9,10 +9,10 @@
 
 
 - 🌱 I’m currently learning **React Redux**
-
+-  visit my portfolio **https://chaudhari-janhavi.netlify.app/**
 - 💬 Ask me about **React js, Django**
 
-- 📫 How to reach me **cm.a.20,janhavi.chaudhari@gmail.com**
+- 📫 How to reach me **cm.a.20.janhavi.chaudhari@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
